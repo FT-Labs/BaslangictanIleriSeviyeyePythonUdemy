@@ -1,0 +1,5 @@
+Merhaba! Bu benim dosyaya ilk yazı yazdırışım.
+Bu da benim 2.satırım.
+Bu da bir tab karakteri: 	Merhaba! Bu benim dosyaya ilk yazı yazdırışım.
+Bu da benim 2.satırım.
+Bu da bir tab karakteri: 	
